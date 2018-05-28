@@ -1,55 +1,78 @@
+
 //mysql connection
-var express = require("express");
-var mysql = require('mysql2');
+var mysql = require("mysql");
 
-var app = express();
+//DB connection (clearDB)
+var connection;
+if (process.env.DATABASE_URL) {
+	  // DB is clearDB on Heroku
+	  connection = mysql.createConnection(process.env.DATABASE_URL);
+} else {
+    connection = mysql.createConnection({
+    //port    : 3306,
+    host    : 'us-cdbr-iron-east-04.cleardb.net',
+    user    : 'bae56c5bc919a5',
+    password: 'e3244ab9',
+    database: 'heroku_d6129f995c862b0'
+});
+}
 
-var connection = mysql.createConnection({
-    port    : 3306,
-    host    : 'us-cdbr-east-04.cleardb.com',
-    user    : 'b6d6c6e874',
-    password: 'b3f7###',
-    database: 'heroku_1daa39da0'
+//DB connection (MySQL)
+//var connection = mysql.createConnection({
+//  host     : 'localhost',
+//  user     : 'web',
+//  password : '1234',
+//  database : 'petdb'
+//});
+
+connection.connect();
+
+
+// DB query
+var dbTable = "heroku_d6129f995c862b0.pet_info";
+//var dbTable = "petdb.pet_info";
+var queryString = 'SELECT * FROM ' + dbTable + ' LIMIT 10';
+var hbsObject = 0;
+
+connection.query(queryString, function(err, res){
+  if(err) {
+    console.log(err);
+  }
+  //handlebar object
+  hbsObject = {pet_info: res};
+  console.log("hbsObject: " + hbsObject);
 });
 
-connection.connect(function(err) {
-    if (err) {
-      console.error('ERROR: MySQL connection error -- ' + err.stack + '\n\n');
-      return;
-    }
-    console.log('Connected to MySQL database as id ' + connection.threadId + '\n\n');
-  });
+connection.end();
 
 
-
-
-
-
-  /////////////////////////
-var bodyParser = require('body-parser');
-var methodOverride = require('method-override');
-
-var port = process.env.PORT || 3000;
-
+//display
+var express = require("express");
 var app = express();
 
-// Serve static content for the app from the 'public' directory
-app.use(express.static(process.cwd() + '/public'));
-
-app.use(bodyParser.urlencoded({ extended: false }));
-
-// Override with POST having ?_method=DELETE
-app.use(methodOverride('_method'));
-
 // Set Handlebars as the view engine
-var exphbs = require('express-handlebars');
+var hbs = require( 'express-handlebars' );
+app.engine( 'handlebars', hbs( { 
+  extname: 'handlebars', 
+  defaultLayout: 'main', 
+  layoutsDir: __dirname + '/views/layouts/',
+  partialsDir: __dirname + '/views/partials/'
+} ) );
+app.set( 'view engine', 'handlebars' );
 
-app.engine('handlebars', exphbs({ defaultLayout: 'main' }));
-app.set('view engine', 'handlebars');
 
-// Import routes and give the server access to them
-var routes = require('./controllers/burgers_controller.js');
+app.get('/', function(req, res){
+  res.render('index', hbsObject);
+});
 
-app.use('/', routes);
 
-app.listen(port);
+var port = process.env.PORT || 3000;
+app.listen(port, function() {
+  console.log("Listening on " + port);
+});
+
+
+// Serve static content for the app from the 'public' directory
+//app.use(express.static(process.cwd() + '/public'));
+
+

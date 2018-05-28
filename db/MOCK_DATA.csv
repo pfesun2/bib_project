@@ -1,0 +1,501 @@
+id,first_name,last_name,address,zipcode,pet_name,pet_kind,gender
+1,Kamilah,Friend,3789 Rutledge Place,54604,Dama wallaby,0,Female
+2,Rollins,Pellingar,42 Loftsgordon Drive,64044,Horned lark,0,Male
+3,Karyn,Elgey,8 Lien Street,20659,Red-shouldered glossy starling,0,Female
+4,Vinnie,Luard,13069 Larry Circle,78777,"Rhea, common",1,Female
+5,Gabi,Vasyatkin,47 Hermina Court,81795,Brown antechinus,1,Male
+6,Randal,Shouler,62542 Esker Way,12058,Vine snake (unidentified),0,Male
+7,Alli,Wadie,1 Hanover Crossing,34931,"Phascogale, red-tailed",1,Female
+8,Livvie,Ivanenko,82 Vidon Trail,89018,"Squirrel, nelson ground",1,Female
+9,Cherrita,Cello,3528 American Place,40604,"Porcupine, indian",0,Female
+10,Jordanna,Ferrotti,1 Anthes Pass,55488,Giant anteater,0,Female
+11,Kaspar,Rankine,51 Cardinal Terrace,38796,"Badger, european",0,Male
+12,Emlynne,Gerhts,58561 Shelley Lane,93090,Eastern quoll,0,Female
+13,Beilul,Sandbach,1794 Blackbird Trail,56344,"Boa, columbian rainbow",0,Female
+14,Elwyn,Marushak,78 Derek Terrace,11209,"Peccary, white-lipped",1,Male
+15,Caitlin,Symcox,190 Sullivan Drive,66503,Large cormorant,1,Female
+16,Jesus,Vanichev,7 Anhalt Circle,98050,Bobcat,0,Male
+17,Muriel,Forrestall,163 Swallow Point,97502,Ovenbird,1,Female
+18,Judye,Finlry,323 Amoth Alley,21099,Dark-winged trumpeter,1,Female
+19,Gallard,Oddey,8 Fuller Place,37959,Neotropic cormorant,1,Male
+20,Jennilee,Ranshaw,861 Sherman Court,89499,Swallow-tail gull,1,Female
+21,Leelah,O'Mannion,2 Anthes Pass,14996,Little brown dove,1,Female
+22,Bren,Urridge,48237 Wayridge Parkway,74790,Yellow-throated sandgrouse,1,Female
+23,Marie-jeanne,Lagde,2 Fordem Plaza,83176,Jaguar,1,Female
+24,Elnora,Blackadder,63 Spenser Parkway,99033,Tokay gecko,0,Female
+25,Nadeen,Lummasana,10810 Menomonie Lane,89961,American Virginia opossum,1,Female
+26,Ahmad,Enticott,86 Continental Hill,58550,"Lion, california sea",0,Male
+27,Jarrid,Message,3768 Garrison Point,20895,Collared lizard,0,Male
+28,Tull,Snoding,3 Grim Road,20148,Caribou,1,Male
+29,Roberto,Wrightim,1 Pond Parkway,43970,"Tarantula, salmon pink bird eater",0,Male
+30,Ivan,Marns,2497 Sachtjen Terrace,92962,"Skunk, western spotted",1,Male
+31,Evy,Thome,9288 Doe Crossing Junction,54290,"Oryx, beisa",0,Female
+32,Pernell,Stooders,199 Gateway Way,38244,"Plover, blacksmith",1,Male
+33,Livvie,Delamaine,1 Donald Point,84111,"Boar, wild",0,Female
+34,Lidia,Obern,99962 Fisk Way,85925,Anaconda (unidentified),0,Female
+35,Kit,Page,2 Reinke Road,40156,"Owl, australian masked",1,Female
+36,Dosi,Overstone,8 Nancy Road,98724,Hummingbird (unidentified),1,Female
+37,Tull,O'Lyhane,8 Marquette Crossing,63902,"Constrictor, eastern boa",1,Male
+38,Isidore,Doncom,02186 Stoughton Park,93020,Short-beaked echidna,1,Male
+39,Wrennie,Joselson,5 Eastlawn Place,90145,"Trotter, lily",0,Female
+40,Braden,Paddeley,1 Forest Pass,81893,"Kingfisher, pied",1,Male
+41,Tessy,Richt,0552 Loftsgordon Junction,23773,"Civet, common palm",0,Female
+42,Latia,Silk,55 Fremont Pass,23237,"Squirrel, palm",0,Female
+43,Waylin,Serjeant,084 Coolidge Drive,41452,Brazilian tapir,0,Male
+44,Grayce,Ishaki,683 New Castle Parkway,13915,"Lion, australian sea",0,Female
+45,Arron,Tilford,9 Monterey Alley,26635,"Eagle, pallas's fish",0,Male
+46,Giulietta,Lammiman,82 Washington Hill,85316,"Cormorant, neotropic",1,Female
+47,Jamil,Hazeldean,59635 Orin Hill,39584,Red-capped cardinal,0,Male
+48,Vail,Parkins,5 Crescent Oaks Parkway,62927,"Barbet, black-collared",0,Male
+49,Lamont,Aristide,08 Lighthouse Bay Circle,82515,"Flamingo, chilean",0,Male
+50,Valeda,Singleton,73452 Mayer Lane,98850,"Kangaroo, brush-tailed rat",1,Female
+51,Aristotle,Pyke,80852 Homewood Road,93783,"Possum, golden brush-tailed",0,Male
+52,Rodrick,Ewells,095 Marcy Hill,58430,Frog (unidentified),1,Male
+53,Misty,Castello,34792 Maryland Place,37614,"Dunnart, fat-tailed",1,Female
+54,Sax,Hatliff,54964 Hagan Terrace,50462,"Echidna, short-beaked",1,Male
+55,Artie,Fluit,66065 International Way,49758,Steller's sea lion,0,Male
+56,Dall,Imlock,94 Fair Oaks Lane,75071,"Starling, greater blue-eared",0,Male
+57,Trent,Tandey,5 Arapahoe Trail,33480,Tarantula,0,Male
+58,Kippy,Coldman,50 1st Junction,40274,Sarus crane,0,Male
+59,Maxie,Callaby,46 Sage Point,36779,"Rhea, common",0,Female
+60,Rosaline,Van den Velden,6 Del Mar Way,55532,Western spotted skunk,0,Female
+61,Laurie,Seligson,96 Cody Plaza,81196,"Bee-eater, white-fronted",1,Female
+62,Viviana,Yushin,2543 Schiller Lane,54463,Malachite kingfisher,1,Female
+63,Hally,Knutsen,40830 Del Sol Circle,32505,"Wolf, timber",1,Female
+64,Sibyl,Christol,761 Basil Way,17381,Polar bear,0,Female
+65,Gallard,Eingerfield,7079 Elmside Place,66875,"Gull, pacific",0,Male
+66,Deanne,Goose,1 1st Parkway,29297,Red-shouldered glossy starling,1,Female
+67,Lenard,Claire,7774 Carioca Circle,25637,Barasingha deer,1,Male
+68,Gradeigh,Grima,629 Arrowood Trail,37354,"Owl, white-browed",1,Male
+69,Byrann,Peinke,4770 Schmedeman Court,40891,Southern brown bandicoot,0,Male
+70,Van,Bultitude,9931 Hazelcrest Point,33985,Little blue penguin,0,Male
+71,Charlene,Barneville,42395 Pawling Point,69171,"Whale, southern right",0,Female
+72,Ruthanne,Hickinbottom,5 Vidon Lane,55756,Common melba finch,1,Female
+73,Giselle,Flexman,3696 Petterle Lane,36224,"Heron, black-crowned night",0,Female
+74,Cirstoforo,Novotni,265 Linden Park,57209,"Ass, asiatic wild",0,Male
+75,Haywood,Pods,7 Thompson Crossing,81228,Galapagos mockingbird,0,Male
+76,Stace,Jachtym,882 Dwight Way,55654,Pied avocet,0,Female
+77,Lanna,Ankrett,8 Lakewood Street,25858,Helmeted guinea fowl,0,Female
+78,Morgan,Ansley,695 Sloan Terrace,44928,"Spoonbill, european",0,Male
+79,Devi,Loftin,98 3rd Hill,12972,"Leopard, indian",1,Female
+80,Jessy,Shrimplin,18 Brickson Park Street,48411,"Dog, black-tailed prairie",1,Female
+81,Corrianne,Fasse,17 Dorton Center,29369,"Devil, tasmanian",0,Female
+82,Max,Lewendon,3 Farmco Place,87459,Jaguar,0,Female
+83,Oralee,Demangeot,83485 Old Gate Junction,72731,Black-winged stilt,0,Female
+84,Hobey,Cheetham,9692 Wayridge Road,24532,"Rabbit, eastern cottontail",1,Male
+85,Eada,Bythway,3 Petterle Street,90994,"Kookaburra, laughing",0,Female
+86,Travus,Prophet,2387 Oxford Point,50700,White-cheeked pintail,1,Male
+87,Tadeas,Cranney,8 Moland Way,23848,Klipspringer,1,Male
+88,Silvanus,Giacobilio,151 Northview Terrace,60497,Malagasy ground boa,1,Male
+89,Kerry,Corck,84869 Elgar Pass,40949,White-nosed coatimundi,0,Male
+90,Saw,Sturley,83 Lakewood Junction,76361,Collared lemming,1,Male
+91,Brenna,Caress,276 Kenwood Crossing,82975,"Tarantula, salmon pink bird eater",1,Female
+92,Andy,Pocklington,8 Hanover Avenue,44426,"Armadillo, seven-banded",0,Male
+93,Joyous,Franzel,092 Golf View Plaza,44819,African ground squirrel (unidentified),1,Female
+94,Archer,Pierson,0 Dovetail Court,98260,"Rat, arboral spiny",1,Male
+95,Valaria,Mora,68192 Annamark Center,97010,"Bird, secretary",0,Female
+96,Peyton,McMorran,29 Summit Terrace,59143,Pale-throated three-toed sloth,0,Male
+97,Eugenio,Stote,644 Dayton Center,56090,"Partridge, coqui",1,Male
+98,Randy,Flori,690 Roth Drive,41890,Ocelot,1,Female
+99,Marlyn,McArd,5 Garrison Terrace,55689,Long-necked turtle,1,Female
+100,Francklyn,Swayton,77182 Harper Park,33560,"Parrot, hawk-headed",1,Male
+101,Jackelyn,Joly,8 Hintze Drive,86832,Savannah deer (unidentified),1,Female
+102,Myrta,Leades,87683 Valley Edge Crossing,64464,"Squirrel, red",1,Female
+103,Warner,Gorch,55113 Upham Street,65137,Ferruginous hawk,0,Male
+104,Karry,Reedshaw,52521 Sunfield Center,59439,"Hyena, brown",1,Female
+105,Gussy,Eastman,65960 Evergreen Lane,28118,"Bandicoot, southern brown",0,Female
+106,Syman,Yegorchenkov,3267 Di Loreto Pass,32841,American alligator,0,Male
+107,Amalee,Cosbee,40855 Muir Point,73814,"Eland, common",0,Female
+108,Bordie,Gilogly,2866 Kipling Drive,86265,Australian spiny anteater,1,Male
+109,Edlin,Tice,15 Maryland Center,39154,Red-tailed cockatoo,0,Male
+110,Ulric,Sommerton,41 Roxbury Lane,55216,"Wallaby, red-necked",0,Male
+111,Garey,Alessandrini,39896 Oakridge Hill,89949,"Starling, red-shouldered glossy",0,Male
+112,Kippy,Prosek,00 Algoma Place,62998,"Antechinus, brown",0,Male
+113,Malory,Woolsey,5061 Clove Avenue,48782,"Lapwing, southern",1,Female
+114,Zackariah,Ussher,2 Gina Park,73473,Egyptian viper,1,Male
+115,Syman,Bramont,5974 Lillian Alley,60839,Tokay gecko,0,Male
+116,Clemmy,Perrat,8 Atwood Lane,26330,Black-tailed deer,1,Female
+117,Reinwald,McEvoy,6 Melby Circle,70008,"Glider, feathertail",0,Male
+118,Cyndie,Loxdale,039 Briar Crest Pass,56778,"Jackal, black-backed",0,Female
+119,Tara,McAster,3596 Westridge Lane,91416,"Antelope, roan",1,Female
+120,Madonna,Moseley,59704 Grim Plaza,56012,Dark-winged trumpeter,1,Female
+121,Silvana,Geddes,965 Steensland Street,68388,"Heron, grey",1,Female
+122,Ellissa,Scatchar,356 Ilene Drive,40530,Blue-tongued skink,1,Female
+123,Grace,Crocroft,5310 Moose Park,72862,Ground legaan,1,Female
+124,Duff,Crouch,208 Center Lane,74775,"Macaw, blue and gold",1,Male
+125,Benji,Shaddock,0007 Nevada Center,92311,Bushpig,0,Male
+126,Kamillah,Burgoin,00555 Bashford Park,31445,Native cat,1,Female
+127,Cybill,Ondrusek,48 Erie Crossing,75622,Asian openbill,1,Female
+128,Karena,Thornber,79 Fordem Lane,84270,Weeper capuchin,1,Female
+129,Oralle,Masham,04 Cardinal Circle,36319,"Gecko, bent-toed",1,Female
+130,Margarete,Nodes,8948 Hermina Way,44976,"Skunk, striped",1,Female
+131,Raeann,Graal,06653 Bultman Pass,89888,"Tortoise, radiated",1,Female
+132,Vance,Duchant,83 Graedel Plaza,43282,Spotted-tailed quoll,1,Male
+133,Bennie,Fominov,999 Randy Hill,45542,Nilgai,1,Female
+134,Bailie,Pollastro,35444 Hoard Park,12706,Brown brocket,1,Male
+135,Aleksandr,Lanegran,6 Ruskin Street,91247,Bennett's wallaby,1,Male
+136,Camille,Train,77 Cambridge Circle,17582,"Eland, common",0,Female
+137,Romeo,Whitehorne,752 Milwaukee Terrace,64742,"Sloth, pale-throated three-toed",0,Male
+138,William,Maggs,7130 Summer Ridge Pass,58978,"Peacock, blue",1,Male
+139,Marla,Mossbee,5458 Lukken Terrace,43290,Blue-tongued lizard,0,Female
+140,Wandis,Londors,5 Vidon Lane,97278,"Quoll, eastern",0,Female
+141,Boycie,Rasher,6638 Elka Junction,15089,Mourning collared dove,0,Male
+142,Ange,De Leek,1 Hooker Avenue,96906,"Eagle, bald",0,Female
+143,Griff,De Beneditti,81799 Eastlawn Plaza,39995,Green vine snake,0,Male
+144,Algernon,Poskitt,7 Fordem Terrace,19493,Yellow-brown sungazer,0,Male
+145,Waiter,Antley,92952 Dennis Terrace,81519,Indian tree pie,0,Male
+146,Pearline,Grenkov,636 Sugar Plaza,22160,"Badger, european",1,Female
+147,Gwennie,Bente,362 Kennedy Lane,18028,Giant girdled lizard,0,Female
+148,Patin,Stenning,629 Blackbird Drive,60025,"Sunbird, lesser double-collared",1,Male
+149,Pansie,Cattanach,3060 Merrick Parkway,55174,"Macaque, rhesus",0,Female
+150,May,Dafforne,326 Fulton Junction,47495,Pied cormorant,0,Female
+151,Alysa,Stapels,6592 Mccormick Point,67102,Cook's tree boa,0,Female
+152,Charyl,Barrie,13 Aberg Parkway,77360,"Monster, gila",0,Female
+153,Cinda,Brightwell,99161 Maryland Drive,16380,Western patch-nosed snake,1,Female
+154,Gus,Radborn,5553 Lien Place,52919,"Crane, wattled",0,Male
+155,Boone,McGonnell,82 Claremont Place,87622,Greater kudu,0,Male
+156,Daune,Gerbl,6 Dapin Junction,81613,"Flicker, field",1,Female
+157,Laurella,Fritschmann,21 Dawn Hill,86538,"Skunk, striped",0,Female
+158,Thea,McIlhagga,746 8th Drive,92234,Adouri (unidentified),1,Female
+159,Pammy,Morrott,2025 Fisk Plaza,20386,African lion,1,Female
+160,Keir,Cruikshank,06877 Bultman Street,40413,Blue-faced booby,1,Male
+161,Merissa,Allcroft,9 Toban Plaza,18347,"Skink, blue-tongued",1,Female
+162,Kev,Geffen,786 Riverside Plaza,68023,"Mongoose, eastern dwarf",0,Male
+163,Vivie,Reckus,1 Hollow Ridge Way,96715,White-tailed jackrabbit,1,Female
+164,Sukey,Pairpoint,3472 Shoshone Alley,14390,Black spider monkey,1,Female
+165,Rhys,Tait,730 Hooker Point,28307,African fish eagle,0,Male
+166,Salvador,Jurisic,44 Mallory Terrace,54337,Asian red fox,0,Male
+167,Carney,Thon,565 Vernon Alley,37565,"Tortoise, desert",1,Male
+168,Manda,Willavoys,668 East Crossing,73904,Savannah deer,1,Female
+169,Phylis,Townsend,9 Thompson Place,58639,"Porcupine, indian",1,Female
+170,Hinda,O'Beirne,65 Lawn Terrace,14285,Bahama pintail,0,Female
+171,Ardine,Martinho,6652 Tennessee Center,53589,"Cockatoo, roseate",0,Female
+172,Jordana,Rochford,465 Transport Avenue,67970,Darwin ground finch (unidentified),1,Female
+173,Lauralee,Jaquin,547 Commercial Lane,31218,"Crane, black-crowned",0,Female
+174,Henka,Frewer,06213 Shasta Circle,91124,Malay squirrel (unidentified),0,Female
+175,Chrystel,Sperling,72 Hudson Circle,18996,Orca,1,Female
+176,Ursulina,Cadell,97299 Esker Park,87792,"Capuchin, weeper",0,Female
+177,Chic,Simester,4493 Little Fleur Lane,75181,"Starling, cape",0,Male
+178,Eberhard,Brindle,1946 Crest Line Court,61666,"Tern, arctic",0,Male
+179,Maximilian,Lindelof,2498 Lerdahl Parkway,57229,"Kingfisher, pied",1,Male
+180,Scot,Goundrill,63 Dahle Plaza,83880,"Goose, knob-nosed",1,Male
+181,Arne,Guitte,5 Main Alley,97096,Southern sea lion,0,Male
+182,Stanislaus,Honeywood,87619 Anderson Junction,58778,"Drongo, fork-tailed",0,Male
+183,Arnie,Mattiazzo,5 Pawling Terrace,83140,"Heron, striated",0,Male
+184,Paxton,Heard,193 Waxwing Trail,37544,North American red fox,0,Male
+185,Clemmy,Conville,97 Morning Junction,59522,"Squirrel, uinta ground",0,Male
+186,Esdras,Pimblotte,65 Susan Point,43276,"Bulbul, african red-eyed",1,Male
+187,Gardiner,Mayo,50 Eastlawn Park,95653,"Sheep, american bighorn",1,Male
+188,Dicky,Peirazzi,19635 Buell Hill,57556,Western palm tanager (unidentified),0,Male
+189,Lion,Novakovic,066 Rieder Point,35191,Pied kingfisher,1,Male
+190,Vanny,Langman,1267 Debra Way,26451,Two-toed sloth,0,Female
+191,Gilles,Biset,701 Monica Alley,30475,"Hartebeest, coke's",1,Male
+192,Conway,Hagyard,1912 Towne Place,54964,"Elephant, asian",1,Male
+193,Luciana,Shorthouse,52 Southridge Court,44968,Asian water buffalo,1,Female
+194,Beaufort,Broxis,5 Donald Terrace,16602,"Wagtail, african pied",1,Male
+195,Noni,McDougle,078 Gale Junction,27178,"Quoll, eastern",0,Female
+196,Pammie,Hellikes,3 Eagan Park,77081,Carmine bee-eater,0,Female
+197,Odell,De Domenico,7 Warner Place,86970,Chameleon (unidentified),1,Male
+198,Bennie,Lantry,4415 Monument Place,63799,Steenbuck,0,Male
+199,Hubie,Stooke,1778 Shoshone Street,23221,Western lowland gorilla,1,Male
+200,Gay,Tankard,802 Menomonie Parkway,59268,"Zebra, plains",1,Male
+201,Elihu,Daoust,267 Redwing Park,14783,Southern screamer,1,Male
+202,Matthieu,Eichmann,96 Sommers Trail,99796,Ornate rock dragon,1,Male
+203,Mab,Towl,556 Mitchell Point,91112,Ovenbird,0,Female
+204,Grove,Gori,1898 Sachtjen Trail,69175,"Crane, wattled",0,Male
+205,Ker,Lovewell,006 Ridgeview Lane,41759,Yellow-headed caracara,0,Male
+206,Ware,Dalgetty,36383 La Follette Lane,50326,Feral rock pigeon,0,Male
+207,Sibyl,Apark,63394 Grover Place,67248,Western palm tanager (unidentified),0,Male
+208,Kara,McNess,2 Leroy Center,82806,Woodrat (unidentified),0,Female
+209,Anneliese,Riddoch,27 Jackson Alley,66673,Dark-winged trumpeter,0,Female
+210,Stu,Edler,9433 Meadow Ridge Street,83453,"Rhinoceros, black",0,Male
+211,Ruggiero,Sheal,10 Hollow Ridge Lane,70440,White-faced tree rat,1,Male
+212,Raychel,Bewick,624 Del Sol Drive,69713,"Partridge, coqui",1,Female
+213,Janela,Deeson,98710 Nevada Park,68348,African darter,0,Female
+214,Silvan,Justun,14 Londonderry Road,63544,"Iguana, common green",0,Male
+215,Art,Burdess,3 Ryan Center,48479,"Rattlesnake, dusky",1,Male
+216,Colas,Duffitt,540 Surrey Drive,20010,"Eagle, long-crested hawk",1,Male
+217,Fields,Trayford,98425 Harbort Point,84882,Black kite,0,Male
+218,Minta,Glaserman,97853 Dixon Plaza,60157,Bonnet macaque,0,Female
+219,Danni,Fitzjohn,6377 Bowman Crossing,34053,"Hartebeest, coke's",0,Female
+220,Davon,Danielski,033 Dexter Plaza,35158,"Oystercatcher, blackish",0,Male
+221,Rickie,Brymham,62875 Derek Avenue,73691,American beaver,1,Male
+222,Suki,Leavry,0214 Reinke Junction,83308,"Crow, american",0,Female
+223,Laurianne,Camelli,7 Londonderry Trail,41822,Pacific gull,1,Female
+224,Stuart,Langwade,7260 Troy Court,96222,Red-tailed hawk,1,Male
+225,Lorrie,Cicconetti,25457 Hazelcrest Crossing,76041,Black-capped chickadee,0,Male
+226,Charlena,Siverns,71 American Lane,39945,"Marten, american",1,Female
+227,Kippie,Feldfisher,76048 Emmet Point,70664,"Armadillo, common long-nosed",0,Male
+228,Ezekiel,Vennart,47 Northfield Circle,78248,Spotted wood sandpiper,0,Male
+229,Harwell,Welfair,646 Gale Street,88390,Eastern grey kangaroo,0,Male
+230,Rustie,Glasscock,43 Cambridge Drive,19285,Black bear,1,Male
+231,April,Roskeilly,7910 Sycamore Drive,17379,Giant girdled lizard,0,Female
+232,Rhodia,Galfour,60597 Rutledge Court,72615,Common turkey,1,Female
+233,Kristofer,Geale,3 Havey Parkway,40526,Kaffir cat,1,Male
+234,Geri,Derby,2 David Road,87786,"Otter, brazilian",1,Female
+235,Odilia,Sexti,188 Tennessee Hill,27487,"Hawk, ferruginous",0,Female
+236,Sianna,Assante,9 Hintze Junction,64278,Waved albatross,1,Female
+237,Renaud,Lindsell,38274 Fairfield Junction,73912,Purple grenadier,1,Male
+238,Dara,Ugolini,8 Sutteridge Park,16972,Toddy cat,0,Female
+239,Jayme,Crab,45377 Anhalt Drive,76221,Malleefowl,0,Male
+240,Saunder,Davydoch,8 Kedzie Junction,80831,"Phalarope, northern",1,Male
+241,Chariot,Brearton,2042 Hudson Alley,23947,"Fox, asian red",0,Male
+242,Logan,Dolley,24118 Schmedeman Hill,48509,Margay,0,Male
+243,Arv,Foreman,3722 Heffernan Road,65419,"Rabbit, eastern cottontail",1,Male
+244,Bendite,MacPaden,885 Red Cloud Way,47324,"Rhinoceros, black",1,Female
+245,Georgeanna,Barraclough,16 Elgar Road,86470,Blue shark,0,Female
+246,Vale,Clevely,076 Thierer Trail,34678,Little heron,1,Male
+247,Corena,Seeger,0288 Ridgeview Avenue,36069,"Buffalo, american",1,Female
+248,Skippy,Rainy,85 Scofield Crossing,97394,"Weaver, sociable",1,Male
+249,Karyl,Riddall,6056 Carey Plaza,17077,Purple moorhen,0,Female
+250,Blondell,Winridge,00219 Judy Road,15865,"Squirrel, european red",0,Female
+251,Madelene,Rymell,170 Kropf Trail,29521,Gray heron,0,Female
+252,Cyrille,Barthorpe,049 Canary Court,78760,Red-necked phalarope,0,Male
+253,Olva,Ligerton,4 Rockefeller Road,23348,Eastern white pelican,0,Female
+254,Anita,MacIlurick,7 Columbus Park,59541,Common wallaroo,0,Female
+255,Clarine,Grahlman,39 Spaight Crossing,61182,"Bear, black",0,Female
+256,Ray,Eliassen,8 Macpherson Park,96344,"Colobus, black and white",0,Female
+257,Nesta,Gundrey,27 Logan Park,36568,"Jacana, african",0,Female
+258,Nannie,Beyn,356 Grayhawk Circle,63542,"Buffalo, african",1,Female
+259,Robers,Treece,72 Bobwhite Crossing,88760,"Teal, hottentot",0,Male
+260,Averil,Barthelme,626 Norway Maple Park,21787,American black bear,0,Female
+261,Mohandis,Cromblehome,3469 Butternut Road,70859,Gray heron,0,Male
+262,Lilyan,Laux,2 Pepper Wood Hill,45499,Smith's bush squirrel,0,Female
+263,Jourdain,Pursglove,144 Crowley Trail,64533,Long-billed corella,1,Male
+264,Jessalyn,Janik,34 Elgar Parkway,56029,Black-necked stork,0,Female
+265,Marlon,Matashkin,2 Mesta Pass,97338,Galapagos mockingbird,0,Male
+266,Daloris,Bearman,7524 Nelson Road,32870,"Goose, andean",0,Female
+267,Ophelie,Bantham,3903 Nova Circle,39154,Bee-eater (unidentified),0,Female
+268,Tomi,Kirkness,41649 Toban Way,68444,Gelada baboon,1,Female
+269,Brittany,Hanalan,72 Forest Pass,67326,Coqui partridge,0,Female
+270,Morgan,Christoforou,4250 Nobel Point,86253,Eastern indigo snake,1,Male
+271,Alexis,Hunnybun,350 Fieldstone Point,34915,"Goose, andean",0,Female
+272,Gasper,Geratt,0 Gerald Place,77411,Large cormorant,1,Male
+273,Waylen,Kowalski,772 Eagan Street,40649,Brown hyena,1,Male
+274,Donia,Ruckhard,90145 Springs Plaza,98691,Hyrax,1,Female
+275,Rafe,Waistell,270 Fuller Lane,46116,"Jackrabbit, white-tailed",1,Male
+276,Mellisent,Gambles,09215 Buena Vista Center,54567,Mudskipper (unidentified),1,Female
+277,Ursuline,Hartfield,4 Nevada Pass,41585,"Tern, white-winged",1,Female
+278,Shell,Denial,4 Schlimgen Point,38883,South American meadowlark (unidentified),1,Male
+279,Rustie,Plaschke,9 Mallard Center,65675,Southern elephant seal,1,Male
+280,Ralph,Darton,279 Melody Hill,11660,White-nosed coatimundi,1,Male
+281,Ed,Hairyes,6 Bunting Circle,28602,White-headed vulture,1,Male
+282,Carri,Face,3 Oriole Center,44958,Anaconda (unidentified),0,Female
+283,Dewie,Woloschin,4360 Lakewood Drive,43146,Collared peccary,1,Male
+284,Gussy,Waryk,20 Forest Parkway,49318,Timber wolf,0,Female
+285,Larry,Pinfold,47248 Sheridan Parkway,28102,Civet cat,1,Male
+286,Tildi,Paulsson,7 Ronald Regan Hill,47971,Red-necked phalarope,0,Female
+287,Cari,Hrinchishin,848 Hansons Hill,25328,Eastern indigo snake,1,Female
+288,Nowell,Ervine,38368 Schiller Place,37959,"Cockatoo, red-tailed",1,Male
+289,Mario,Bougourd,0 Mockingbird Junction,39206,Nine-banded armadillo,0,Male
+290,Deirdre,Joscelyne,882 Atwood Court,49914,"Badger, honey",0,Female
+291,Aili,Camilli,81 7th Road,37609,Woolly-necked stork,0,Female
+292,Gian,Wicken,11853 Judy Street,13832,Genoveva,0,Male
+293,Lyndy,Chasles,5318 Armistice Alley,98792,Red-billed tropic bird,1,Female
+294,Sybille,Kop,05162 Commercial Drive,47286,"Vulture, turkey",1,Female
+295,Jacques,O'Hengerty,461 Loeprich Center,45829,"Corella, long-billed",1,Male
+296,Charlton,Duiguid,61095 Welch Trail,94868,"Lourie, grey",1,Male
+297,Berky,Vasiliev,8 Starling Junction,16438,Gemsbok,0,Male
+298,Tobey,Upcott,246 Comanche Pass,64742,"Cat, kaffir",1,Female
+299,Hal,Januszewski,78 Main Way,57136,"Hen, sage",1,Male
+300,Mira,Fernie,5 Tomscot Circle,36891,Yellow-necked spurfowl,0,Female
+301,Giffard,Hefforde,1672 Esker Pass,20216,"Ass, asiatic wild",0,Male
+302,Yankee,Rudiger,0533 Gulseth Court,96392,Bohor reedbuck,0,Male
+303,Lolita,Deex,9547 Hooker Parkway,96861,Green-winged macaw,1,Female
+304,Roseanna,Beresfore,82 Continental Alley,67119,"Bushbaby, large-eared",0,Female
+305,Drusilla,Killoran,6048 Nevada Alley,64876,Black-tailed tree creeper,1,Female
+306,Rene,Runcieman,12578 Blue Bill Park Pass,86688,"Python, carpet",1,Female
+307,Waldo,Dolohunty,1 Warner Street,60727,"Monitor, water",0,Male
+308,Antonio,Waylett,44 Jenifer Street,61301,Giant anteater,0,Male
+309,Francisco,Potts,8460 Pepper Wood Crossing,44488,"Zorro, azara's",0,Male
+310,Ange,Jessel,67343 Judy Terrace,47879,"Gecko, ring-tailed",0,Male
+311,Fey,Haylett,35 Killdeer Park,37972,"Squirrel, eastern fox",0,Female
+312,Sosanna,Oganian,281 Reinke Lane,19189,Black-footed ferret,0,Female
+313,Jermaine,Butner,489 Novick Alley,71171,"Cat, native",1,Female
+314,Solomon,Bannerman,95700 Tennessee Court,98237,Euro wallaby,1,Male
+315,Gard,Aronin,14540 Mosinee Alley,30189,"Peacock, blue",1,Male
+316,Miles,Minchella,5 Birchwood Terrace,41526,"Capuchin, brown",1,Male
+317,Demeter,Christon,8942 American Ash Alley,48613,Hottentot teal,1,Female
+318,Laughton,Byfford,21634 Briar Crest Crossing,24051,"Cockatoo, red-tailed",1,Male
+319,Em,Ivanusyev,01 Victoria Parkway,98590,"Pademelon, red-legged",0,Male
+320,Correna,Forsythe,3630 Messerschmidt Trail,50311,American bighorn sheep,1,Female
+321,Agace,Spread,0956 5th Drive,38722,Golden brush-tailed possum,1,Female
+322,Kathryne,Furneaux,893 Lake View Avenue,85317,"Porcupine, prehensile-tailed",1,Female
+323,Heddi,Tuffrey,33200 Delaware Trail,63419,Crested bunting,0,Female
+324,Sterling,Schollar,05 Shasta Park,68165,Southern lapwing,0,Male
+325,Filberte,Spata,1661 Glendale Place,71220,"Gull, dusky",1,Male
+326,Claus,Hubbock,53 Vera Court,68991,"Baboon, gelada",0,Male
+327,Dalston,Beatey,18 Everett Parkway,67326,"Squirrel, pine",0,Male
+328,Elora,Fidler,48 Village Green Junction,69561,"Whale, southern right",0,Female
+329,Luella,MacScherie,758 Browning Point,45474,Brolga crane,0,Female
+330,Tyne,Herries,0166 Spenser Parkway,14504,Glossy ibis,1,Female
+331,Maggi,Malcolm,39 Sauthoff Road,47687,Lesser mouse lemur,0,Female
+332,Olivero,Dowall,587 Londonderry Street,64490,Reindeer,1,Male
+333,Carolus,Dukelow,5 Union Drive,15057,Black vulture,0,Male
+334,Rog,De Cleen,97 2nd Way,69985,Red-tailed wambenger,1,Male
+335,Abbye,Leatherland,706 Sunnyside Plaza,91565,Scarlet macaw,1,Female
+336,Kara-lynn,Le - Count,335 Basil Terrace,71860,"Colobus, white-mantled",0,Female
+337,Glynis,Dahlberg,2271 Straubel Lane,87350,Common wombat,0,Female
+338,Sammie,von Nassau,85 Continental Park,88200,"Hyena, brown",0,Male
+339,Ricoriki,Thaw,577 Clarendon Avenue,67052,"Fox, asian red",1,Male
+340,Derron,Westbrook,2021 Bunting Court,49428,"Grouse, sage",1,Male
+341,Ives,Argont,000 Ridgeview Drive,41795,White-tailed jackrabbit,1,Male
+342,Xever,Quirke,84 Gateway Center,75437,"Boa, cook's tree",1,Male
+343,Brade,Soans,9460 Nova Way,92630,Sarus crane,1,Male
+344,Nicola,Grzelewski,436 Calypso Avenue,97237,Bontebok,0,Male
+345,Mariana,Lawranson,08623 Moland Junction,96945,"Pintail, bahama",1,Female
+346,Pierce,Leaming,0665 Maywood Junction,32253,Komodo dragon,1,Male
+347,Welch,Balam,295 Hallows Crossing,41480,"Mynah, common",0,Male
+348,Alejandra,Vynehall,1 Starling Park,23012,Large cormorant,0,Female
+349,Kyrstin,Corragan,666 Homewood Court,68044,"Gecko, bent-toed",1,Female
+350,Hillery,Decaze,2147 Warbler Pass,56346,"Raven, cape",0,Male
+351,Welch,Wasbrough,55 Mccormick Street,29970,"Waxbill, black-cheeked",0,Male
+352,Erinna,Espadas,5 Riverside Road,75410,"Kangaroo, jungle",0,Female
+353,Fair,Pittway,8705 Anderson Park,61364,Flying fox (unidentified),1,Male
+354,Barret,McAster,2 Crowley Crossing,80181,"Dunnart, fat-tailed",1,Male
+355,Margarita,Tern,663 Mcbride Avenue,93170,"Grenadier, purple",0,Female
+356,Wyatt,Grumley,853 Delladonna Alley,92184,Rufous-collared sparrow,0,Male
+357,Aundrea,Bursnoll,328 Meadow Valley Circle,76347,Hoffman's sloth,1,Female
+358,Carley,Blakes,9992 Canary Center,72187,"Pie, rufous tree",0,Female
+359,Mathe,Crichley,189 Melvin Road,20634,Common langur,1,Male
+360,Theodora,Harsant,07680 Pepper Wood Crossing,49620,Western grey kangaroo,0,Female
+361,Lorry,Doul,406 Sage Place,82266,Land iguana,1,Male
+362,Aubrey,Hubery,59 Grasskamp Drive,22027,"Kudu, greater",1,Female
+363,Steffane,Findon,727 Evergreen Court,68227,"Goose, egyptian",0,Female
+364,Henri,Defew,514 Mayfield Crossing,91989,Blesbok,0,Male
+365,Melloney,Alabone,9 Stephen Trail,94366,"Snake, buttermilk",0,Female
+366,Shawn,Kehri,0 Morning Way,22801,"Jackal, golden",1,Male
+367,Ivonne,Lever,47623 Golf Lane,56154,"Crake, african black",0,Female
+368,Alisander,Tidswell,355 Bellgrove Way,81202,Blue fox,1,Male
+369,Shannon,Shasnan,8370 Maple Park,28643,"Hawk, red-tailed",0,Female
+370,Ramon,Lugden,03 Bashford Parkway,96905,Green-winged trumpeter,1,Male
+371,Elvis,Davidescu,8293 Pine View Place,75303,Dusky rattlesnake,1,Male
+372,Athena,Airy,8293 Hanson Hill,19012,"Waterbuck, common",1,Female
+373,Dorice,Luparto,00 Mccormick Junction,63482,Russian dragonfly,0,Female
+374,Harwell,Sail,6762 Evergreen Way,49411,"Colobus, magistrate black",1,Male
+375,Gabriele,Lerner,31000 Sundown Court,18157,Green-backed heron,0,Male
+376,Bev,Hawkings,69 Grover Way,39921,Lesser masked weaver,0,Female
+377,Yale,Van Niekerk,6 Pearson Lane,48612,Eastern box turtle,0,Male
+378,Rolfe,Edlyn,1018 Waubesa Place,39149,"Crow, house",1,Male
+379,Donovan,McKinless,82134 Kropf Road,97886,Hoary marmot,0,Male
+380,Eleanora,Moncur,59 6th Drive,62145,Oriental white-backed vulture,0,Female
+381,Delano,Sommerlie,5 Bunker Hill Parkway,72091,Herring gull,1,Male
+382,Saul,Klainer,1831 Truax Road,45974,"Constrictor, eastern boa",1,Male
+383,Sander,Blandamere,31310 Golf Court,51326,"Sloth, two-toed tree",1,Male
+384,Homer,Watson-Brown,621 Summerview Parkway,86387,"Civet, small-toothed palm",0,Male
+385,Dorthea,Doram,94042 Birchwood Park,19025,Red squirrel,0,Female
+386,Tiertza,Orrock,0497 Derek Drive,36744,"Whale, baleen",0,Female
+387,Goldie,Espine,26 Hoepker Center,64460,Racer snake,0,Female
+388,Martha,Wicher,84 Quincy Park,14506,"Iguana, land",1,Female
+389,Audra,Garthland,60058 Coleman Way,79034,"Squirrel, golden-mantled ground",1,Female
+390,Jimmie,Ranvoise,226 Jana Court,77796,"Woodpecker, downy",1,Male
+391,Tammy,Belli,329 Raven Lane,19076,Mocking cliffchat,1,Female
+392,Ashli,Bugdall,90267 Service Drive,52520,Gila monster,0,Female
+393,Terri,MacRorie,3430 Nevada Place,31619,Griffon vulture,1,Male
+394,Vivia,Plante,77 Meadow Ridge Junction,66742,"Barbet, levaillant's",0,Female
+395,Regen,Lavielle,9 Lerdahl Street,61180,"Fox, north american red",1,Male
+396,Shandee,Hutchings,82 Pennsylvania Point,31144,Grey lourie,1,Female
+397,Erhard,Colquite,121 Twin Pines Circle,63657,Violet-crested turaco,1,Male
+398,Anson,Filliskirk,2339 Heffernan Drive,69592,Tailless tenrec,0,Male
+399,Joshua,Mollitt,707 Fremont Crossing,99484,Squirrel glider,0,Male
+400,Meagan,Farquhar,557 Carey Way,53264,"Python, carpet",0,Female
+401,Ruddie,Jodlkowski,776 International Road,44874,Giant armadillo,1,Male
+402,Ignacio,McGrady,5447 Lyons Trail,79540,Potoroo,0,Male
+403,Grazia,Battersby,26 Armistice Point,36157,Red phalarope,0,Female
+404,Wendye,Piche,1057 Schurz Road,92110,Asian false vampire bat,0,Female
+405,Sloan,Wharin,2 Memorial Plaza,85467,Racer snake,1,Male
+406,Chance,Walicki,652 Briar Crest Court,11691,Long-billed cockatoo,0,Male
+407,Ado,Hamblen,2 Bayside Point,67211,Buttermilk snake,1,Male
+408,Vivian,Leader,031 Lighthouse Bay Place,79142,Green vine snake,0,Female
+409,Irvine,Peascod,3024 Northwestern Park,27420,Alpaca,0,Male
+410,Judon,Switzer,3 Old Gate Street,63012,Black vulture,0,Male
+411,Kerk,Lyons,162 Melody Road,81730,Asian openbill,1,Male
+412,Maitilde,Tawton,6134 Sutteridge Street,97027,"Fox, bat-eared",0,Female
+413,Ignace,Gilleon,0420 Myrtle Point,94615,"Dragon, komodo",0,Male
+414,Felix,Peatheyjohns,4625 Talmadge Point,98514,"Penguin, magellanic",0,Male
+415,Kaylyn,Thurstan,7 Sunfield Avenue,96946,Koala,1,Female
+416,Martin,Sidney,20368 Kipling Alley,25388,Grey phalarope,1,Male
+417,Xerxes,Doldon,638 Spohn Center,83243,"Francolin, coqui",0,Male
+418,Cedric,Kores,4 Quincy Plaza,34855,Little brown dove,0,Male
+419,Ray,May,476 Kropf Center,49722,"Lion, steller sea",0,Male
+420,Cosimo,Golightly,24 Gina Circle,44975,Northern phalarope,1,Male
+421,Templeton,Benner,95 Kennedy Lane,55835,Lava gull,1,Male
+422,Orlando,Jehan,83 Maryland Plaza,50663,"Screamer, crested",0,Male
+423,Cathleen,Tinto,108 Bowman Avenue,83241,"Heron, little",1,Female
+424,Enid,Tuvey,6494 Quincy Park,65686,Pale-throated three-toed sloth,0,Female
+425,Elsinore,Blowing,01 Redwing Pass,13449,Two-banded monitor,0,Female
+426,Colman,Belf,86725 Lerdahl Junction,29959,"Magpie, black-backed",0,Male
+427,Arnoldo,Westcar,7607 Fordem Junction,92653,Fork-tailed drongo,0,Male
+428,Mellicent,Barrett,3177 Hoepker Center,94322,Sambar,0,Female
+429,Riley,Dict,5574 Northridge Hill,11381,"Dove, laughing",0,Male
+430,Elinor,Cotillard,064 Paget Park,27736,Crab-eating fox,1,Female
+431,Dorita,Buney,7199 Crownhardt Drive,85454,"Squirrel, palm",1,Female
+432,Fallon,Marden,37 Muir Junction,12653,"Squirrel, uinta ground",0,Female
+433,Margie,Mottley,67 Maple Wood Pass,20869,"Colobus, magistrate black",0,Female
+434,Lynnell,Norster,6297 Carioca Lane,72959,"Starling, red-shouldered glossy",0,Female
+435,Giulia,MacCaffery,91 Paget Park,30782,"Pigeon, feral rock",0,Female
+436,Thibaud,Huleatt,6002 Heath Place,15208,Mudskipper (unidentified),0,Male
+437,Pen,Grocock,6 Oak Park,53937,Scarlet macaw,1,Male
+438,Pepe,Casin,573 Everett Avenue,41708,Rufous tree pie,1,Male
+439,Dmitri,Hubane,359 Nancy Parkway,48685,"Coatimundi, ring-tailed",0,Male
+440,Algernon,Archdeacon,03 Packers Park,46341,White-necked raven,1,Male
+441,Gilberte,Whiskerd,917 Scoville Street,55194,Fairy penguin,1,Female
+442,Diarmid,Hellwig,970 Gerald Lane,53896,"Hornbill, red-billed",0,Male
+443,Min,Featherstone,8639 Rockefeller Avenue,67133,"Boubou, southern",0,Female
+444,Otto,Oslar,1 Badeau Point,78885,Woolly-necked stork,1,Male
+445,Tudor,Espinazo,51 Union Hill,11185,"Falcon, peregrine",0,Male
+446,Fielding,Read,6 Fulton Avenue,90065,"Duck, comb",0,Male
+447,Lock,Caw,416 Judy Lane,41061,"Chickadee, black-capped",0,Male
+448,Wilie,Shortt,80426 Gale Parkway,99316,Thomson's gazelle,0,Female
+449,Alyss,O'Fearguise,6114 Northview Terrace,45772,"Eagle, bald",0,Female
+450,Isabelle,Huller,78 Pearson Crossing,23732,European badger,0,Female
+451,Aurel,Nelthrop,0 Bunker Hill Place,65977,"Badger, european",0,Female
+452,Moshe,McCerery,137 Linden Crossing,72810,Land iguana,0,Male
+453,Chrissie,Bukowski,3 Mallory Junction,65012,Bengal vulture,1,Female
+454,Toinette,Kulis,18096 Mallory Way,59826,"Caracara, yellow-headed",1,Female
+455,Lannie,McCosh,2071 Lyons Hill,61539,"Bison, american",1,Male
+456,Myrta,Gillease,3 Summer Ridge Road,59044,Vine snake (unidentified),0,Female
+457,Carlin,Lattka,2576 Del Mar Crossing,81144,Indian giant squirrel,1,Male
+458,Claudius,Bradman,35707 Spaight Terrace,90989,Water legaan,1,Male
+459,Dorelia,Pestricke,77523 Lillian Plaza,60188,California sea lion,1,Female
+460,Jerrome,Del Castello,96299 Golf Course Pass,35937,"Boa, emerald green tree",0,Male
+461,Brice,Gatcliff,11 Bunker Hill Crossing,67047,Ocelot,1,Male
+462,Sutton,Woolbrook,333 Upham Center,89643,Red deer,0,Male
+463,Lorine,Glanton,59349 Forest Dale Center,49101,"Iguana, marine",1,Female
+464,Adrienne,Lucock,87 Thompson Lane,73844,"Vulture, king",1,Female
+465,Dionysus,Walcar,3 Thierer Pass,13775,"Rattlesnake, dusky",0,Male
+466,Sophia,Scripps,8 Canary Way,98060,"Stork, greater adjutant",1,Female
+467,Ariela,Pocke,6 Bunker Hill Parkway,85801,Egyptian viper,1,Female
+468,Rivalee,Harper,394 Hollow Ridge Junction,15787,Golden jackal,1,Female
+469,Nikolas,Nehls,6798 Summer Ridge Road,92454,Musk ox,0,Male
+470,Birdie,Michelet,85029 Amoth Pass,49963,"Stork, openbill",0,Female
+471,Jarret,Melpuss,213 Daystar Terrace,46474,Black-capped chickadee,1,Male
+472,Peggy,Nana,149 Briar Crest Point,79424,"Bleu, blue-breasted cordon",0,Female
+473,Zelma,Speariett,1 Ridgeview Alley,69560,"Teal, hottentot",1,Female
+474,Ninetta,Stanhope,76495 Porter Street,69985,Yellow-bellied marmot,1,Female
+475,Ricki,Moffet,222 Stephen Circle,30989,Common langur,0,Female
+476,Zuzana,Futcher,5 Village Junction,24894,Brush-tailed phascogale,1,Female
+477,Andy,Kinsell,58191 Florence Terrace,28381,Long-tailed jaeger,0,Male
+478,Tanney,Bayman,3521 American Ash Way,22403,"Jackal, golden",0,Male
+479,Shane,Caras,695 Mosinee Road,27691,Rhesus monkey,0,Female
+480,Jorey,Eddie,599 Melvin Street,93443,"Porcupine, indian",0,Female
+481,Griselda,Durward,28 Miller Road,76284,Common wombat,1,Female
+482,Kyla,Dodworth,30 Goodland Park,96231,Caribou,0,Female
+483,Kirk,Sterrick,360 Hanson Parkway,12269,Bottle-nose dolphin,1,Male
+484,Halsey,Grabb,209 Sauthoff Crossing,51401,"Gorilla, western lowland",0,Male
+485,Vi,Foale,3 Buena Vista Lane,45741,"Goose, greylag",0,Female
+486,Clerkclaude,Cruse,3 Vahlen Circle,44222,"Crab, sally lightfoot",0,Male
+487,Tabb,MacRory,4 7th Point,66931,House crow,1,Male
+488,Shirlee,Hellcat,3 Golf Point,29071,Asian foreset tortoise,1,Female
+489,Jourdan,Verlander,307 Mallory Place,45237,Southern elephant seal,1,Female
+490,Eleanor,Hemms,70 Truax Street,77519,African polecat,1,Female
+491,Karlens,Probbin,598 Debra Crossing,63798,"Stork, black-necked",0,Male
+492,Tobit,Arrigucci,88 Farwell Way,68645,"Alligator, mississippi",0,Male
+493,Stephie,Wellman,17 Caliangt Hill,95194,Water monitor,0,Female
+494,Verene,Allanson,58882 Dapin Lane,19110,"Raccoon, crab-eating",1,Female
+495,Rafe,Eland,24301 Michigan Avenue,31365,"Wombat, southern hairy-nosed",1,Male
+496,Syd,Gross,52 Scofield Lane,67635,"Cormorant, king",0,Male
+497,Shep,Parfitt,48 Tony Alley,82944,Long-nosed bandicoot,0,Male
+498,Karole,Ogan,6 Manufacturers Point,42426,"Skunk, striped",0,Female
+499,Craggie,Caneo,81 Loeprich Court,93731,Common zorro,1,Male
+500,Terrye,Kollach,80091 Kropf Point,86303,"Porcupine, north american",1,Female
