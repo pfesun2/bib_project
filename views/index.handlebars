@@ -1,8 +1,16 @@
-{{#pet_info}}
+<form action="/search" method="get">
+    <label for="email">Email: </label>
+    <input id="email" type="text" name="email" value=""><br>
 
-<h1>{{pet_name}}</h1>
-<p>Owner: {{first_name}} </p>
-<p>Pet type: {{pet_kind}} </p>
-<p>zipcode: {{zipcode}}</p>
+    <label for="zipcode">zipcode: </label>
+    <input id="zipcode" type="text" name="zipcode" value=""><br>
 
-{{/pet_info}}
+    <input type="submit" value="login">
+</form>
+
+<h1>This is my first time. I want to list my info</h1>
+<form>
+<input type="button" value="Sign up" onclick="window.location.href='/create'" />
+</form>
+
+

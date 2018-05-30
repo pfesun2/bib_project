@@ -1,0 +1,42 @@
+<h1>This is your information</h1>
+
+
+{{#myInfo}}
+
+<h1>{{pet_name}}</h1>
+<p>Owner: {{first_name}} </p>
+<p>Pet type: {{pet_kind}} </p>
+<p>zipcode: {{zipcode}}</p>
+
+<form>
+    <input type="button" value="Update" onclick="window.location.href='/update'" />
+</form>
+
+{{/myInfo}}
+
+
+<h1>Let's find out your friend!   </h1>
+<form action="/result" method="get">
+    <label for="first_name">First Name: </label>
+    <input id="first_name" type="text" name="first_name" value=""><br>
+
+    <label for="last_name">Last Name: </label>
+    <input id="last_name" type="text" name="last_name" value=""><br>
+
+    <label for="address">Address: </label>
+    <input id="address" type="text" name="address" value=""><br>
+
+    <label for="zipcode">zipcode: </label>
+    <input id="zipcode" type="text" name="zipcode" value=""><br>
+
+    <label for="pet_name">Pet Name: </label>
+    <input id="pet_name" type="text" name="pet_name" value=""><br>
+
+    <label for="pet_kind">Pet Kind: </label>
+    <input id="pet_kind" type="text" name="pet_kind" value=""><br>
+
+    <label for="gender">Gender: </label>
+    <input id="gender" type="text" name="gender" value=""><br>
+    
+    <input type="submit" value="submit">
+</form>

@@ -1,43 +1,43 @@
-//mysql connection
-var mysql      = require('mysql');
-var connection = mysql.createConnection({
-  host     : 'localhost',
-  user     : 'web',
-  password : '1234',
-  database : 'petdb'
-});
- 
-connection.connect();
-
+var FirstName = "";
+var LastName = "";
+var Address = "";
+var Zipcode = parseInt("30318".substr(0,3));
+var PetName = '';
+var PetKind = '';
+var Gender = '';
 var dbTable = "petdb.pet_info";
-var queryString = 'SELECT * FROM ' + dbTable + ' LIMIT 10';
-var hbsObject = 0;
 
-connection.query(queryString, function(err, res){
-  if(err) {
-    console.log(err);
-  }
-  hbsObject = {pet_info: res};
-  console.log("hbsObject: " + hbsObject);
-});
+var queryString = 'SELECT * FROM ' + dbTable;
+if (FirstName){
+  queryString+=' WHERE first_name = "' + FirstName + '"';
+}
 
-var express = require('express');
-var app = express();
-var exphbs = require('express-handlebars');
-app.engine('handlebars', exphbs({
-    defaultLayout: 'main',
-}));
-app.set('view engine', 'handlebars');
+if (LastName){
+  queryString+=' WHERE last_name = "' + LastName + '"';
+}
 
-connection.end();
+if (Address){
+  queryString+=' WHERE address = "' + Address + '"';
+}
 
-app.get('/', function(req, res){
-  res.json(hbsObject);
-  //res.render('index', hbsObject);
-});
+if (Zipcode){
+  queryString+=' WHERE zipcode LIKE "' + Zipcode + '__"';
+}
 
-var port = process.env.PORT || 3000;
-app.listen(port);
+if (PetName){
+  queryString+='and pet_name = "' + PetName + '" ';
+}
+
+if (PetKind){
+  queryString+='and pet_kind = "' + PetKind + '" ';
+}
+
+if (Gender){
+  queryString+='and gender = "' + Gender + '" ';
+}
+
+console.log(queryString);
+
 
 
 
